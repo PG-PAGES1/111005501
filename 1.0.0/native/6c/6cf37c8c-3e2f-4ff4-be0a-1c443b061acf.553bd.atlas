@@ -1,0 +1,20 @@
+
+scatter.jpg
+size: 490,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_s_pattern
+  rotate: true
+  xy: 381, 138
+  size: 185, 108
+  orig: 185, 108
+  offset: 0, 0
+  index: -1
+sd_reel_glow
+  rotate: false
+  xy: 1, 1
+  size: 378, 322
+  orig: 378, 322
+  offset: 0, 0
+  index: -1

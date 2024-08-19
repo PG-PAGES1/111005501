@@ -1,0 +1,399 @@
+
+freebg.jpg
+size: 1984,1740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+button_sweep/tw_button_sweep_00
+  rotate: false
+  xy: 1569, 1621
+  size: 122, 118
+  orig: 540, 1170
+  offset: 208, 158
+  index: -1
+button_sweep/tw_button_sweep_01
+  rotate: true
+  xy: 167, 1000
+  size: 186, 120
+  orig: 540, 1170
+  offset: 177, 157
+  index: -1
+button_sweep/tw_button_sweep_02
+  rotate: true
+  xy: 1569, 1339
+  size: 280, 120
+  orig: 540, 1170
+  offset: 129, 157
+  index: -1
+button_sweep/tw_button_sweep_03
+  rotate: true
+  xy: 875, 647
+  size: 398, 118
+  orig: 540, 1170
+  offset: 70, 157
+  index: -1
+button_sweep/tw_button_sweep_04
+  rotate: true
+  xy: 1131, 1215
+  size: 524, 118
+  orig: 540, 1170
+  offset: 8, 157
+  index: -1
+button_sweep/tw_button_sweep_05
+  rotate: true
+  xy: 423, 494
+  size: 534, 116
+  orig: 540, 1170
+  offset: 3, 157
+  index: -1
+button_sweep/tw_button_sweep_06
+  rotate: true
+  xy: 541, 494
+  size: 534, 110
+  orig: 540, 1170
+  offset: 3, 157
+  index: -1
+button_sweep/tw_button_sweep_07
+  rotate: true
+  xy: 653, 494
+  size: 534, 110
+  orig: 540, 1170
+  offset: 3, 157
+  index: -1
+button_sweep/tw_button_sweep_08
+  rotate: true
+  xy: 765, 494
+  size: 534, 108
+  orig: 540, 1170
+  offset: 3, 158
+  index: -1
+button_sweep/tw_button_sweep_09
+  rotate: true
+  xy: 707, 1205
+  size: 534, 106
+  orig: 540, 1170
+  offset: 3, 159
+  index: -1
+button_sweep/tw_button_sweep_10
+  rotate: true
+  xy: 815, 1205
+  size: 534, 106
+  orig: 540, 1170
+  offset: 3, 160
+  index: -1
+button_sweep/tw_button_sweep_11
+  rotate: true
+  xy: 923, 1205
+  size: 534, 104
+  orig: 540, 1170
+  offset: 3, 162
+  index: -1
+button_sweep/tw_button_sweep_12
+  rotate: true
+  xy: 1029, 1205
+  size: 534, 100
+  orig: 540, 1170
+  offset: 3, 165
+  index: -1
+button_sweep/tw_button_sweep_13
+  rotate: true
+  xy: 207, 460
+  size: 538, 108
+  orig: 540, 116
+  offset: 1, 4
+  index: -1
+button_sweep/tw_button_sweep_14
+  rotate: true
+  xy: 317, 490
+  size: 538, 104
+  orig: 540, 116
+  offset: 1, 6
+  index: -1
+fire/tw_fire_00
+  rotate: true
+  xy: 289, 1030
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_01
+  rotate: true
+  xy: 572, 1030
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_02
+  rotate: true
+  xy: 855, 1047
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_03
+  rotate: true
+  xy: 1138, 1057
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_04
+  rotate: false
+  xy: 1411, 774
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_05
+  rotate: true
+  xy: 1702, 1583
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_06
+  rotate: true
+  xy: 1702, 1425
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_07
+  rotate: true
+  xy: 1702, 1267
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_08
+  rotate: true
+  xy: 1702, 1109
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_09
+  rotate: true
+  xy: 1702, 951
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_10
+  rotate: true
+  xy: 1702, 793
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_11
+  rotate: true
+  xy: 1702, 635
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_12
+  rotate: true
+  xy: 1702, 477
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_13
+  rotate: true
+  xy: 1702, 319
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_14
+  rotate: true
+  xy: 1251, 1583
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_15
+  rotate: true
+  xy: 1251, 1425
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_16
+  rotate: true
+  xy: 1251, 1267
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_17
+  rotate: false
+  xy: 1449, 36
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_18
+  rotate: false
+  xy: 1607, 36
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+fire/tw_fire_19
+  rotate: false
+  xy: 1765, 36
+  size: 156, 281
+  orig: 156, 281
+  offset: 0, 0
+  index: -1
+other/ib_center_glow
+  rotate: false
+  xy: 875, 516
+  size: 370, 129
+  orig: 370, 129
+  offset: 0, 0
+  index: -1
+other/tw_button_glow
+  rotate: true
+  xy: 1, 252
+  size: 729, 204
+  orig: 729, 204
+  offset: 0, 0
+  index: -1
+other/tw_flash_glow
+  rotate: true
+  xy: 1, 983
+  size: 756, 164
+  orig: 756, 164
+  offset: 0, 0
+  index: -1
+other/tw_wave_glow
+  rotate: false
+  xy: 167, 1188
+  size: 538, 551
+  orig: 538, 551
+  offset: 0, 0
+  index: -1
+ray/bw_ray_00
+  rotate: true
+  xy: 312, 44
+  size: 206, 303
+  orig: 206, 363
+  offset: 0, 9
+  index: -1
+ray/bw_ray_01
+  rotate: false
+  xy: 825, 3
+  size: 206, 281
+  orig: 206, 363
+  offset: 0, 10
+  index: -1
+ray/bw_ray_02
+  rotate: false
+  xy: 995, 754
+  size: 206, 291
+  orig: 206, 363
+  offset: 0, 8
+  index: -1
+ray/bw_ray_03
+  rotate: true
+  xy: 1124, 308
+  size: 206, 297
+  orig: 206, 363
+  offset: 0, 7
+  index: -1
+ray/bw_ray_04
+  rotate: true
+  xy: 821, 286
+  size: 206, 301
+  orig: 206, 363
+  offset: 0, 9
+  index: -1
+ray/bw_ray_05
+  rotate: true
+  xy: 516, 286
+  size: 206, 303
+  orig: 206, 363
+  offset: 0, 11
+  index: -1
+ray/bw_ray_06
+  rotate: true
+  xy: 207, 252
+  size: 206, 307
+  orig: 206, 363
+  offset: 0, 11
+  index: -1
+ray/bw_ray_07
+  rotate: true
+  xy: 1, 44
+  size: 206, 309
+  orig: 206, 363
+  offset: 0, 7
+  index: -1
+ray/bw_ray_08
+  rotate: false
+  xy: 1203, 764
+  size: 206, 291
+  orig: 206, 363
+  offset: 0, 7
+  index: -1
+ray/bw_ray_09
+  rotate: true
+  xy: 1423, 348
+  size: 206, 277
+  orig: 206, 363
+  offset: 0, 9
+  index: -1
+ray/bw_ray_10
+  rotate: false
+  xy: 1033, 3
+  size: 206, 281
+  orig: 206, 363
+  offset: 0, 10
+  index: -1
+ray/bw_ray_11
+  rotate: false
+  xy: 617, 1
+  size: 206, 283
+  orig: 206, 363
+  offset: 0, 10
+  index: -1
+ray/bw_ray_12
+  rotate: true
+  xy: 1247, 556
+  size: 206, 291
+  orig: 206, 363
+  offset: 0, 8
+  index: -1
+ray/bw_ray_13
+  rotate: false
+  xy: 1241, 9
+  size: 206, 297
+  orig: 206, 363
+  offset: 0, 8
+  index: -1
+
+
+freebg2.png
+size: 1155,874
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bs_load_chac_a
+  rotate: false
+  xy: 1, 1
+  size: 578, 872
+  orig: 578, 872
+  offset: 0, 0
+  index: -1
+bs_load_chac_b
+  rotate: false
+  xy: 581, 14
+  size: 573, 859
+  orig: 573, 862
+  offset: 0, 2
+  index: -1
+

@@ -1,0 +1,328 @@
+
+jiasu.png
+size: 2010,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bark
+  rotate: false
+  xy: 1766, 174
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fs_vfx_b_add
+  rotate: false
+  xy: 577, 6
+  size: 95, 265
+  orig: 95, 265
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_00
+  rotate: false
+  xy: 802, 109
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_01
+  rotate: false
+  xy: 890, 109
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_02
+  rotate: false
+  xy: 897, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_03
+  rotate: false
+  xy: 978, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_04
+  rotate: false
+  xy: 985, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_05
+  rotate: false
+  xy: 1066, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_06
+  rotate: false
+  xy: 1073, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_07
+  rotate: false
+  xy: 1154, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_08
+  rotate: false
+  xy: 1161, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_09
+  rotate: false
+  xy: 1242, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_10
+  rotate: false
+  xy: 1249, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_11
+  rotate: false
+  xy: 1330, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_12
+  rotate: false
+  xy: 1337, 391
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+gunzhoujaisutexiao_unpack/fs_vfx_a_add_13
+  rotate: false
+  xy: 1418, 152
+  size: 86, 237
+  orig: 86, 237
+  offset: 0, 0
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_00
+  rotate: false
+  xy: 115, 10
+  size: 106, 152
+  orig: 256, 256
+  offset: 72, 53
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_01
+  rotate: true
+  xy: 802, 1
+  size: 106, 150
+  orig: 256, 256
+  offset: 71, 57
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_02
+  rotate: false
+  xy: 337, 12
+  size: 110, 150
+  orig: 256, 256
+  offset: 72, 59
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_03
+  rotate: false
+  xy: 1, 10
+  size: 112, 152
+  orig: 256, 256
+  offset: 70, 60
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_04
+  rotate: false
+  xy: 223, 12
+  size: 112, 150
+  orig: 256, 256
+  offset: 71, 63
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_05
+  rotate: false
+  xy: 1220, 2
+  size: 110, 148
+  orig: 256, 256
+  offset: 73, 55
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_06
+  rotate: false
+  xy: 1332, 2
+  size: 110, 148
+  orig: 256, 256
+  offset: 73, 56
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_07
+  rotate: false
+  xy: 1106, 2
+  size: 112, 148
+  orig: 256, 256
+  offset: 71, 54
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_08
+  rotate: false
+  xy: 1660, 44
+  size: 104, 138
+  orig: 256, 256
+  offset: 71, 55
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_09
+  rotate: false
+  xy: 1552, 19
+  size: 106, 144
+  orig: 256, 256
+  offset: 72, 53
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_10
+  rotate: false
+  xy: 1444, 2
+  size: 106, 148
+  orig: 256, 256
+  offset: 72, 51
+  index: -1
+jinsesuipiantexiao_unpack/fs_vfx_d_add_11
+  rotate: true
+  xy: 954, 1
+  size: 106, 150
+  orig: 256, 256
+  offset: 72, 52
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_01
+  rotate: true
+  xy: 513, 227
+  size: 44, 56
+  orig: 176, 464
+  offset: 33, 397
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_02
+  rotate: true
+  xy: 641, 278
+  size: 46, 100
+  orig: 176, 464
+  offset: 30, 349
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_03
+  rotate: false
+  xy: 449, 34
+  size: 126, 165
+  orig: 176, 464
+  offset: 29, 299
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_04
+  rotate: true
+  xy: 1807, 376
+  size: 126, 201
+  orig: 176, 464
+  offset: 29, 263
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_05
+  rotate: false
+  xy: 1632, 184
+  size: 126, 217
+  orig: 176, 464
+  offset: 29, 247
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_06
+  rotate: false
+  xy: 1553, 403
+  size: 126, 225
+  orig: 176, 464
+  offset: 29, 239
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_07
+  rotate: false
+  xy: 1425, 397
+  size: 126, 231
+  orig: 176, 464
+  offset: 29, 233
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_08
+  rotate: false
+  xy: 513, 273
+  size: 126, 355
+  orig: 176, 464
+  offset: 29, 109
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_09
+  rotate: false
+  xy: 385, 201
+  size: 126, 427
+  orig: 176, 464
+  offset: 29, 37
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_10
+  rotate: false
+  xy: 1, 164
+  size: 126, 464
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_11
+  rotate: false
+  xy: 129, 164
+  size: 126, 464
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_12
+  rotate: false
+  xy: 257, 164
+  size: 126, 464
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_13
+  rotate: false
+  xy: 641, 326
+  size: 126, 302
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_14
+  rotate: false
+  xy: 769, 348
+  size: 126, 280
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_15
+  rotate: false
+  xy: 674, 28
+  size: 126, 248
+  orig: 176, 464
+  offset: 29, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_16
+  rotate: false
+  xy: 1506, 165
+  size: 124, 230
+  orig: 176, 464
+  offset: 31, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_17
+  rotate: false
+  xy: 1681, 412
+  size: 124, 216
+  orig: 176, 464
+  offset: 31, 0
+  index: -1
+jinsexuanzhuanguang_unpack/fs_vfx_c_add_18
+  rotate: true
+  xy: 1807, 504
+  size: 124, 202
+  orig: 176, 464
+  offset: 31, 0
+  index: -1

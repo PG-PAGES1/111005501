@@ -1,0 +1,20 @@
+
+bg_light.png
+size: 1035,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 601, 1
+  size: 413, 433
+  orig: 413, 433
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 1, 1
+  size: 413, 598
+  orig: 413, 598
+  offset: 0, 0
+  index: -1

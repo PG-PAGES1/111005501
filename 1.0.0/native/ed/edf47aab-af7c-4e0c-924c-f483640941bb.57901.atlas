@@ -1,0 +1,139 @@
+
+win_frame.png
+size: 500,920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+other/ib_border_glow
+  rotate: true
+  xy: 279, 404
+  size: 515, 117
+  orig: 515, 117
+  offset: 0, 0
+  index: -1
+other/ib_line_glow
+  rotate: true
+  xy: 398, 412
+  size: 181, 40
+  orig: 181, 40
+  offset: 0, 0
+  index: -1
+other/ib_scatter_glow
+  rotate: true
+  xy: 1, 386
+  size: 533, 156
+  orig: 533, 156
+  offset: 0, 0
+  index: -1
+other/ib_scatter_line
+  rotate: true
+  xy: 159, 402
+  size: 517, 118
+  orig: 517, 118
+  offset: 0, 0
+  index: -1
+other/ib_sweep_glow
+  rotate: true
+  xy: 409, 76
+  size: 218, 73
+  orig: 218, 73
+  offset: 0, 0
+  index: -1
+sand_fall/ib_sand_fall_00
+  rotate: true
+  xy: 381, 78
+  size: 324, 26
+  orig: 337, 101
+  offset: 5, 68
+  index: -1
+sand_fall/ib_sand_fall_01
+  rotate: true
+  xy: 265, 75
+  size: 325, 31
+  orig: 337, 101
+  offset: 6, 63
+  index: -1
+sand_fall/ib_sand_fall_02
+  rotate: true
+  xy: 123, 57
+  size: 327, 34
+  orig: 337, 101
+  offset: 5, 58
+  index: -1
+sand_fall/ib_sand_fall_03
+  rotate: false
+  xy: 159, 38
+  size: 327, 35
+  orig: 337, 101
+  offset: 5, 54
+  index: -1
+sand_fall/ib_sand_fall_04
+  rotate: true
+  xy: 458, 594
+  size: 325, 36
+  orig: 337, 101
+  offset: 6, 51
+  index: -1
+sand_fall/ib_sand_fall_05
+  rotate: false
+  xy: 1, 1
+  size: 323, 35
+  orig: 337, 101
+  offset: 7, 49
+  index: -1
+sand_fall/ib_sand_fall_06
+  rotate: true
+  xy: 342, 79
+  size: 323, 37
+  orig: 337, 101
+  offset: 7, 46
+  index: -1
+sand_fall/ib_sand_fall_07
+  rotate: true
+  xy: 298, 79
+  size: 323, 42
+  orig: 337, 101
+  offset: 7, 39
+  index: -1
+sand_fall/ib_sand_fall_08
+  rotate: true
+  xy: 214, 75
+  size: 325, 49
+  orig: 337, 101
+  offset: 6, 30
+  index: -1
+sand_fall/ib_sand_fall_09
+  rotate: true
+  xy: 68, 61
+  size: 323, 53
+  orig: 337, 101
+  offset: 8, 23
+  index: -1
+sand_fall/ib_sand_fall_10
+  rotate: true
+  xy: 159, 77
+  size: 323, 53
+  orig: 337, 101
+  offset: 7, 23
+  index: -1
+sand_fall/ib_sand_fall_11
+  rotate: true
+  xy: 398, 595
+  size: 324, 58
+  orig: 337, 101
+  offset: 7, 19
+  index: -1
+sand_fall/ib_sand_fall_12
+  rotate: true
+  xy: 1, 61
+  size: 323, 65
+  orig: 337, 101
+  offset: 7, 12
+  index: -1
+sand_fall/ib_sand_fall_13
+  rotate: true
+  xy: 440, 296
+  size: 296, 59
+  orig: 337, 101
+  offset: 21, 13
+  index: -1
